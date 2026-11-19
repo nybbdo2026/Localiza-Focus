@@ -38,4 +38,4 @@ const pretest_images_multiple = [
 ]
 
 
-const survey_name = "Localiza Rental Services Survey"
+const survey_name = "Localiza Rental Services Survey Round 2"
